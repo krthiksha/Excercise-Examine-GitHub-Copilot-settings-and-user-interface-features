@@ -1,1 +1,3 @@
 # Excercise-Examine-GitHub-Copilot-settings-and-user-interface-features
+
+In this exercise, i examined GitHub Copilot settings and explored the GitHub Copilot user interface in Visual Studio Code. i configured Copilot settings and explored the Chat view, including Ask mode for questions and Agent mode for autonomous code edits. i used Quick Chat for lightweight interactions and reviewed how Inline Chat integrates with the editor. i also used ghost text code completions and next edit suggestions (NES) to accelerate coding, and applied Smart Actions such as Explain and Review to analyze and improve your code.
